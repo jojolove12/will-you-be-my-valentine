@@ -15,18 +15,18 @@ export default function Page() {
       "No",
       "Are you sure?",
       "What if I asked really nicely?",
-      "Pretty please",
-      "With a chocolate rice cake on top",
-      "What about a matcha frostie",
-      "PLEASE POOKIE",
+      "Jojooooo please",
+      "tb lw hageb chocolate lindt?",
+      "Tb 5las 5aleha fried ice cream",
+      "PLEASE JOJOOOOOOO",
       "But :*(",
       "I am going to die",
       "Yep im dead",
-      "ok ur talking to nathan's ghost",
+      "ok ur talking to sasa's ghost",
       "please babe",
       ":((((",
-      "PRETTY PLEASE",
-      "Estoy muerto",
+      "JOJOOOOOOO PLEASE",
+      "3shan 5atryyyyyy",
       "No :(",
     ];
 
@@ -38,7 +38,7 @@ export default function Page() {
       {yesPressed ? (
         <>
           <img src="https://media.tenor.com/gUiu1zyxfzYAAAAi/bear-kiss-bear-kisses.gif" />
-          <div className="my-4 text-4xl font-bold">WOOOOOO!!! I love you pookie!! ;))</div>
+          <div className="my-4 text-4xl font-bold">WOOOOOO!!! I love you jojooooo!! ;))</div>
         </>
       ) : (
         <>
